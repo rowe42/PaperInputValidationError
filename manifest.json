@@ -1,0 +1,6 @@
+{
+  "name": "validateTest",
+  "short_name": "validateTest",
+  "start_url": "/",
+  "display": "standalone"
+}
